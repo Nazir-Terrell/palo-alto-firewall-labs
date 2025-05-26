@@ -133,10 +133,13 @@ palo-alto-firewall-labs/
 
 ---
 
-## 👤 Authors
-> Group Project — ECPI University, CYB430  
-All work performed in an academic simulation environment.  
-
+## 👤 Author
+**Nazir Terrell**  
+Security+ Certified | Cybersecurity Graduate  
+ECPI University — CYB430 (Network Security Technologies)  
+Term: 2025  
+🔗 [LinkedIn](https://www.linkedin.com/in/nazir-terrell-40a05b217)
+  
 ---
 
 ## ✅ License
